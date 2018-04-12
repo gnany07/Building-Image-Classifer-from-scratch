@@ -1,0 +1,1 @@
+{'deer': 0, 'dolphin': 1, 'elephant': 2, 'giraffe': 3, 'horse': 4, 'lion': 5, 'polarbear': 6, 'rabbit': 7, 'tiger': 8, 'zebra': 9}
